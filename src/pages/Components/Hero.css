@@ -22,7 +22,6 @@
     display: flex;
     background-image: linear-gradient(to right, rgb(0, 0, 0), transparent);
     opacity: 70%;
-
 }
 
 .whole-upper-info-container {
@@ -65,7 +64,6 @@
     margin-top: -30px;
     padding: 35px 105px 35px 105px;
     gap: 27px;
-    opacity: 0px;
     background-color: rgba(247, 247, 247, 0.836);
     border-radius: 7px;
 }
@@ -93,7 +91,6 @@
     gap: 15.97px;
     border-radius: 7.99px;
     border: 1.6px 0px 0px 0px;
-    opacity: 0px;
     border: 2px solid rgba(33, 105, 0, 1);
     font-family: Lato;
     font-size: 26.62px;
@@ -112,7 +109,6 @@
     gap: 15.97px;
     border-radius: 7.99px;
     border: 1.6px 0px 0px 0px;
-    opacity: 0px;
     border: none;
     outline: none;
     background-color: rgba(33, 105, 0, 1);
@@ -141,7 +137,6 @@
     gap: 15.97px;
     border-radius: 7.99px;
     border: 1.6px 0px 0px 0px;
-    opacity: 0px;
     border: 1px solid rgba(33, 105, 0, 1);
     outline: none;
     font-family: Lato;
@@ -165,7 +160,6 @@
     gap: 15.97px;
     border-radius: 7.99px;
     border: 1.6px 0px 0px 0px;
-    opacity: 0px;
     border: 1.6px solid rgba(33, 105, 0, 1);
     background-color: rgba(33, 105, 0, 1);
     font-family: Lato;
@@ -257,7 +251,6 @@
     gap: 15.97px;
     border-radius: 7.99px;
     border: 1.6px 0px 0px 0px;
-    opacity: 0px;
     border: 1.6px solid rgba(33, 105, 0, 1);
     background-color: rgba(33, 105, 0, 1);
     font-family: Lato;
@@ -280,7 +273,6 @@
     top: 756.02px;
 
     border-radius: 50px;
-    opacity: 0px;
     background-color: rgba(217, 217, 217, 1);
     position: relative;
     top: -70px;
@@ -356,7 +348,6 @@
         margin-right: 20px;
         padding: 35px 1% 35px 1%;
         gap: 27px;
-        opacity: 0px;
         background-color: rgba(247, 247, 247, 0.836);
         border-radius: 7px;
     }
@@ -452,13 +443,17 @@
         height: 161.23px;
         width: 85%;
         padding: 13.76px 11.29px 13.76px 11.29px;
-        opacity: 0px;
         background-color: rgba(247, 247, 247, 0.836);
         border-radius: 7px;
         margin: 0 auto;
         margin-top: 20px;
     }
 
+    .cover-fade {
+        background-color: black;
+        width: 100%;
+        opacity: 50%;
+    }
 
     .hero-form .buttons-group .btn1 {
         width: 67.8px;
@@ -467,7 +462,6 @@
         gap: 15.97px;
         border-radius: 3.14px;
         border: 0.63px 0px 0px 0px;
-        opacity: 0px;
         border: 1px solid rgba(33, 105, 0, 1);
         font-family: Lato;
         font-size: 10.47px;
@@ -487,7 +481,6 @@
         gap: 15.97px;
         border-radius: 3.14px;
         border: 0.63px 0px 0px 0px;
-        opacity: 0px;
         border: 1px solid rgba(33, 105, 0, 1);
         font-family: Lato;
         font-size: 10.47px;
@@ -642,7 +635,6 @@
         padding: 3.11px 16.28px 3.11px 16.28px;
         border-radius: 2.6px;
         border: 0.52px 0px 0px 0px;
-        opacity: 0px;
         font-family: Lato;
         font-size: 8.82px;
         font-weight: 700;
